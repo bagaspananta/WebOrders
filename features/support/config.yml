@@ -1,0 +1,6 @@
+test_server:
+  base_url: http://secure.smartbearsoftware.com
+  mobile_url: http://secure.smartbearsoftware.com
+  api_url: http://secure.smartbearsoftware.com
+  img_url: http://secure.smartbearsoftware.com
+
